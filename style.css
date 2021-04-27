@@ -9,6 +9,10 @@ body {
   padding: 0;
 }
 
+html {
+  font-size: 1.125rem;
+}
+
 .title {
   font-size: 2rem;
 }
@@ -20,6 +24,7 @@ header {
 .intro-chunk p {
   font-size: 1.25rem;
   max-width: 340px;
+  line-height: 1.4;
 }
 
 .intro-chunk strong {
